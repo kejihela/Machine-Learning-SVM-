@@ -13,8 +13,7 @@ A computer program is said to learn from experience E with respect to some class
 ![machine_learning_image](https://user-images.githubusercontent.com/72225471/171360238-f099039f-3931-4f3a-8d9a-53f0001c0fa4.png)
 
 
-Type of Machine Learning problem
-Supervised learning: labels provided
+Type of Machine Learning problem Supervised learning: labels provided
 	Classication  (pattern recognition):
 		1. Face recognition.
 		2. Speech recognition.
