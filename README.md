@@ -13,13 +13,15 @@ A computer program is said to learn from experience E with respect to some class
 ![machine_learning_image](https://user-images.githubusercontent.com/72225471/171360238-f099039f-3931-4f3a-8d9a-53f0001c0fa4.png)
 
 
-Type of Machine Learning problem Supervised learning: labels provided
+Type of Machine Learning problem:
+Supervised learning: labels provided
 	Classication  (pattern recognition):
 		1. Face recognition.
 		2. Speech recognition.
 		
-Regression: the labels to be predicted are continuous:
-		Predict the price of a car from its mileage.
-		Navigating a car: angle of the steering.
- 		kinematics of a robot arm:
+	Regression:
+	the labels to be predicted are continuous:
+		1.Predict the price of a car from its mileage.:rocket:
+		2. Navigating a car: angle of the steering.:airplane:
+ 		3. kinematics of a robot arm::zap:
 
