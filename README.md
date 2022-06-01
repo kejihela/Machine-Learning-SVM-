@@ -1,4 +1,4 @@
-# Machine-Learning-SVM-
+# Machine-Learning-SVM- :classical_building:
 This gives a detailed explanation of Machine learning, particularly, Support Vector Machine
 Data is being produced and sorted continuously ("big data")
 Data is not random; it contains structure that can be used to predict outcomes, or gain knowledge in some way.
