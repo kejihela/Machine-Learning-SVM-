@@ -19,3 +19,4 @@ Supervised learning: labels provided
 		
 Regression: the labels to be predicted are continuous: 1.Predict the price of a car from its mileage. :rocket: 2. Navigating a car: angle of the steering. :airplane: 3. kinematics of a robot arm :zap:
 
+![image](https://user-images.githubusercontent.com/72225471/171362813-87e5b5f8-88a3-4d85-b897-364da321bf2e.png)
