@@ -19,7 +19,7 @@ Supervised learning: labels provided
 		1. Face recognition. :grinning:
 		2. Speech recognition.
 		
-Regression:the labels to be predicted are continuous:
+Regression: the labels to be predicted are continuous:
 		1.Predict the price of a car from its mileage. :rocket:
 		2. Navigating a car: angle of the steering. :airplane:
  		3. kinematics of a robot arm :zap:
