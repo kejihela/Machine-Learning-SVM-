@@ -18,10 +18,8 @@ Type of Machine Learning problem Supervised learning: labels provided
 		1. Face recognition.
 		2. Speech recognition.
 		
-	Regression: the labels to be predicted are continuous:
-		1. Predict the price of a car from its mileage.
-		2. Navigating a car: angle of the steering.
- 		3. kinematics of a robot arm:
-
-
+Regression: the labels to be predicted are continuous:
+		Predict the price of a car from its mileage.
+		Navigating a car: angle of the steering.
+ 		kinematics of a robot arm:
 
